@@ -1,0 +1,135 @@
+body{
+  font-family: sans-serif;
+  background-color: #222;
+  background-size: cover;}
+
+table, tr{
+  margin-left: 10%;
+  margin-right: 10%;
+  color:white;
+  border: 1px solid white;
+}
+
+.angkringan{
+  width: 90%;
+  margin-top: 35px;
+}
+
+
+td{
+  padding:15px;
+}
+
+.login-box{
+  width: 280px;
+  color: white;}
+
+.login-box h1{
+  font-size: 40px;
+  padding: 13px 0;}
+
+.textbox{
+  width: 100%;
+  overflow: hidden;
+  font-size: 20px;
+  padding: 8px 0;
+  margin: 8px 0;
+  border-bottom: 1px solid #4caf50;}
+
+ select{
+  border: none;
+  outline: none;
+  background: none;
+  color: white;
+  font-size: 18px;
+  width: 80%;
+  float: left;
+  margin: 0 10px;
+ }
+
+ option{
+  border: none;
+  outline: none;
+  background: none;
+  color: white;
+  font-size: 18px;
+  width: 80%;
+  float: left;
+  margin: 0 10px;
+ }
+
+textarea{
+  border: 4px;
+  outline: none;
+  background: none;
+  color: white;
+  font-size: 18px;
+  width: 80%;
+  float: left;
+  margin: 0 10px;}
+
+.textbox input{
+  border: none;
+  outline: none;
+  background: none;
+  color: white;
+  font-size: 18px;
+  width: 80%;
+  margin: 0 10px;}
+
+.textbox img{
+  width: 25px;
+  height:25px;
+  float: left;}
+
+.btn{
+  width: 25%;
+  background: none;
+  border: 2px solid #4caf50;
+  color: white;
+  padding: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  margin: 12px 0;}
+
+.judul{
+  color: white;
+}
+
+.desk{
+  font-size: 15px;
+  text-align: justify;
+  color: #eaeaea;
+}
+
+@media (max-width: 768px) {
+  body{
+    font-size: 15px;
+  }
+  td{
+    font-size: 13px;
+    padding: 5px;
+  }
+  .angkringan{
+    width:100%;
+    margin-top: 5px;
+  }
+
+  .login-box h1{
+    font-size: 20px;
+    padding: 8px 0;}
+
+  .login-box{
+    width: 100%;
+    color: white;
+  }
+
+  .desk{
+    font-size: 13px;
+    }
+
+  .textbox input{
+    font-size: 13px;
+  }
+
+}

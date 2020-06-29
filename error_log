@@ -1,0 +1,7 @@
+[09-May-2020 06:59:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'thefound'@'localhost' to database 'dbfounderslab' in /home/thefound/public_html/connect.php on line 25
+[09-May-2020 07:02:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'thefound'@'localhost' to database 'dbfounderslab' in /home/thefound/public_html/connect.php on line 25
+[09-May-2020 07:08:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thefound/public_html/dbh.php on line 9
+[14-May-2020 01:18:11 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/thefound/public_html/reg.php on line 41
+[14-May-2020 01:18:11 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/thefound/public_html/reg.php on line 42
+[20-May-2020 01:50:34 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/thefound/public_html/reg.php on line 41
+[20-May-2020 01:50:34 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/thefound/public_html/reg.php on line 42
