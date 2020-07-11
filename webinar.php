@@ -82,8 +82,7 @@
 			<p class="card-text text-center"> Please check your email after registering via Webinarjam, this event will be held on Saturday, 4 July 2020 </p>
 			<p class="card-text text-center"> Want a free entry ? Click the green button below </p>
 			<br>
-				<a href=https://docs.google.com/forms/d/e/1FAIpQLSfrqptBaVXtoVvU2UFVV5EZvbPEWA2UsfcscReMRCLHCl5Png/viewform target="_blank"> <button type="button" class="btn btn-primary btn-lg"> Register </button> </a>
-				<a href=https://docs.google.com/forms/d/e/1FAIpQLSflJLrETYelB5dmJkOEluE1w0FXTrOStuawoP0ExrYwNBEFiw/viewform target="_blank"> <button type="button" class="btn btn-success btn-lg"> Free Entry </button> </a>
+				<a href=#> <button type="button" class="btn btn-primary btn-lg"> Closed </button> </a>
 	</div>
 </div>
 
@@ -133,8 +132,7 @@
 		<div class="col-md-12">
 			<p class="card-text text-center"> Please check your email after registering via Webinarjam, this event will be held on Saturday, 4 July 2020 </p>
 			<p class="card-text text-center"> Want a free entry ? Click the green button below </p>
-				<a href=https://docs.google.com/forms/d/e/1FAIpQLSeRPe-msQTGMtG0ZrYR5Eqae_AQB71R_5fc5JmCzoL3ryFKRg/viewform target="_blank"> <button type="button" class="btn btn-primary btn-lg"> Register </button> </a>
-				<a href=https://docs.google.com/forms/d/e/1FAIpQLSflJLrETYelB5dmJkOEluE1w0FXTrOStuawoP0ExrYwNBEFiw/viewform target="_blank"> <button type="button" class="btn btn-success btn-lg"> Free Entry </button> </a>
+			<a href=#> <button type="button" class="btn btn-primary btn-lg"> Closed </button> </a>
 		</div>
 	</div>
 
