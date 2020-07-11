@@ -17,310 +17,215 @@
 	include "nav.php";
 	?>
 
+<!--- Image Slider -->
+<div id="slides" class="carousel slide" data-ride="carousel">
+<!--- <ul class="carousel-indicators">
+	<li data-target="#slides" data-slide-to="0" class="active"></li>
+	<li data-target="#slides" data-slide-to="1"></li>
+	<li data-target="#slides" data-slide-to="2"></li>
+</ul> -->
+<div class="carousel-inner">
+	<div class="carousel-item active">
+		<img src="img/background.jpg">
+		<div class="carousel-caption">
+			<h1 class="display-2"> The Founders Laboratory </h1>
+			<h3>  </h3>
+			<!--- <button type="button" class="btn btn-outline-light btn-lg"> View Demo </button>  -->
+			<a href=#ea> <button type="button" class="btn btn-primary btn-lg"> Get Started </button> </a>
+		</div>
+	</div>
+<!---	<div class="carousel-item">
+		<img src="img/background.png">
+	</div>
+	<div class="carousel-item">
+		<img src="img/background.png">
+	</div> -->
+</div>
+</div>
 
+<!--- Jumbotron
+<div class="container-fluid">
+<div class="row jumbotron">
+	<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10">
+		<p class="lead"> Startup Ecosystem in Campus to build a community that facilitates
+Multidisciplinary Students find their Co-Founder and Develop their Startup from Pre-Incubation until Scale up using Design Thinking, Lean Startup, and
+Agile Development Framework. </p>
+	</div>
+	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">
+		<a href="#"> <button type="button" class="btn btn-outline-secondary btn-lg"> Learn More </button> </a>
+	</div>
+</div>
+</div> -->
 
+<!--- Meet the team -->
 <div class="container-fluid padding">
-  <div class="row welcome text-center">
-
-  	<div class="col-12 judul">
-  		<h1 class="display-4"> Idealogy Webinar </h1>
-  	</div>
-  	<hr>
-
-  	<div class="col-12 desk">
-  		<p> Idealogy Webinar consists of multiple webinar events covering a diverse amount of topics. Gain substantial insight and knowledge on various topics by participating on our webinars!
-      </p>
-		</div>
-	</div>
-	</div>
-
-
-<div class="container-fluid padding">
-<div class="row padding">
-
-<div class="col-lg-12">
-<div class="card">
-<div class="row padding">
-
-	<div class="col-12 judul">
-		<h1 class="display-6 text-center"> Session 1 </h1>
-	</div>
-
-
-	<div class="col-md-4">
-		<div class="card border-0">
-			<img class="card-img-top" src="img/aaron.png" height=374px>
-		<div class="card-body">
-			<h4 class="card-title text-center"> Aaron Nio </h4>
-			<p class="card-text text-center"> Director at GK Plug and Play Indonesia </p>
-		</div>
-		</div>
-	</div>
-
-	<div class="col-md-4">
-		<div class="card border-0">
-			<img class="card-img-top" src="img/nazmi.png" height=374px>
-		<div class="card-body">
-			<h4 class="card-title text-center"> Nazmi Ahmad </h4>
-			<p class="card-text text-center"> Lecturer at SBM ITB </p>
-		</div>
-		</div>
-	</div>
-
-	<div class="col-md-4">
-		<div class="card border-0">
-			<img class="card-img-top" src="img/dayu.png" height=374px>
-		<div class="card-body">
-			<h4 class="card-title text-center"> Dayu Dara </h4>
-			<p class="card-text text-center"> CEO & Co-Founder of Pinhome </p>
-		</div>
-		</div>
-	</div>
-
-	<div class="row welcome text-center">
-		<div class="col-md-12">
-			<p class="card-text text-center"> Please check your email after registering via Webinarjam, this event will be held on Saturday, 4 July 2020 </p>
-			<p class="card-text text-center"> Want a free entry ? Click the green button below </p>
-			<br>
-				<a href=https://docs.google.com/forms/d/e/1FAIpQLSfrqptBaVXtoVvU2UFVV5EZvbPEWA2UsfcscReMRCLHCl5Png/viewform target="_blank"> <button type="button" class="btn btn-primary btn-lg"> Register </button> </a>
-				<a href=https://docs.google.com/forms/d/e/1FAIpQLSflJLrETYelB5dmJkOEluE1w0FXTrOStuawoP0ExrYwNBEFiw/viewform target="_blank"> <button type="button" class="btn btn-success btn-lg"> Free Entry </button> </a>
-	</div>
-</div>
-
-</div>
-</div>
-</div>
-
-<div class="col-lg-12">
-<div class="card">
-<div class="row padding">
-
-	<div class="col-12 judul">
-		<h1 class="display-6 text-center"> Session 2 </h1>
-	</div>
-
-	<div class="col-md-4">
-		<div class="card border-0">
-			<img class="card-img-top" src="img/billy.png" height=374px>
-		<div class="card-body">
-			<h4 class="card-title text-center"> Billy Mambrasar </h4>
-			<p class="card-text text-center"> CEO of @kitongbisa_id </p>
-		</div>
-		</div>
-	</div>
-
-	<div class="col-md-4">
-		<div class="card border-0">
-			<img class="card-img-top" src="img/hendra.png" height=374px>
-		<div class="card-body">
-			<h4 class="card-title text-center"> Hendra Kwik </h4>
-			<p class="card-text text-center"> CEO of Payfazz </p>
-		</div>
-		</div>
-	</div>
-
-	<div class="col-md-4">
-		<div class="card border-0">
-			<img class="card-img-top" src="img/sabda.png" height=374px>
-		<div class="card-body">
-			<h4 class="card-title text-center"> Sabda PS </h4>
-			<p class="card-text text-center"> Founder of Zenius Education </p>
-		</div>
-		</div>
-	</div>
-
-	<div class="row welcome text-center">
-		<div class="col-md-12">
-			<p class="card-text text-center"> Please check your email after registering via Webinarjam, this event will be held on Saturday, 4 July 2020 </p>
-			<p class="card-text text-center"> Want a free entry ? Click the green button below </p>
-				<a href=https://docs.google.com/forms/d/e/1FAIpQLSeRPe-msQTGMtG0ZrYR5Eqae_AQB71R_5fc5JmCzoL3ryFKRg/viewform target="_blank"> <button type="button" class="btn btn-primary btn-lg"> Register </button> </a>
-				<a href=https://docs.google.com/forms/d/e/1FAIpQLSflJLrETYelB5dmJkOEluE1w0FXTrOStuawoP0ExrYwNBEFiw/viewform target="_blank"> <button type="button" class="btn btn-success btn-lg"> Free Entry </button> </a>
-		</div>
-	</div>
-
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<div class="container-fluid padding">
-  <div class="row welcome text-center">
-
-	<div class="col-12 judul">
-		<h3 class="display-4"> Archived </h3>
+<div class="row welcome text-center">
+	<div class="col-12" id=ea>
+		<h1 class="display-4"> Idealogy Festival 2020 </h1>
 	</div>
 	<hr>
 </div>
-  <div class="row padding">
+</div>
 
-		<div class="col-md-4">
+<!--- Cards -->
+<div class="container-fluid padding">
+<div class="row padding">
+	<div class="col-md-6">
 		<div class="card">
-			<img class="card-img-top closed" src="img/workshop.png" height=374px>
+			<img class="card-img-top" src="img/startupchallenge.jpg" height=374px>
 			<div class="card-body">
-				<h4 class="card-title"> Idealogy Workshop </h4>
-				<p class="card-text"> Creating a clean and enticing pitch deck is crucial at any stage of the startup phase. This in-depth and hands-on workshop will provide you with the tools you need to create a fully designed pitch deck ready to pitch!
-				<hr> This webinar will be held on 6 June 2020 </p>
+				<h4 class="card-title"> Idealogy Start Up Challenge 2020 </h4>
+				<p class="card-text"> The Start-up Challenge is an event where you will participate in a 30-day growth spurt program.
+					Prepare and further develop the potential of your startup with our resources. With guidance from mentors, trainings, and sharing sessions. Get ready for the incubation phase with us! </p>
 				<a href=# class="btn btn-outline-secondary"> Closed </a>
 			</div>
 		</div>
 	</div>
 
-	<div class="col-md-4">
-	<div class="card">
-		<img class="card-img-top closed" src="img/radeya.png" height=374px>
-		<div class="card-body">
-			<h4 class="card-title"> Evaluate and Prepare Founder's Agreement for Startup </h4>
-			<p class="card-text"> The Founders' Agreements are the Conversational Guide that will take place in the early stages of the start-up rather than late. The aim of these conversations is to have an open and honest discussion about the attitudes, fears, and aspirations of individuals involved in the start-up, In order to minimize the likelihood of dismantling as the company continues to grow.
-			<hr> This webinar will be held on 7 June 2020 </p>
-			<a href=# class="btn btn-outline-secondary"> Closed </a>
-		</div>
-	</div>
-	</div>
-
-
-	<div class="col-md-4">
-	<div class="card">
-	<img class="card-img-top closed" src="img/lean.png" height=374px>
-	<div class="card-body">
-	<h4 class="card-title"> Lean Product Development </h4>
-	<p class="card-text"> Lean product development focused on reducing waste, work-in-process, and cycle time for product development. Know how to improve the cost-efficient start-up development process by taking part in this webinar!
-	<hr> This webinar will be held on 13 June 2020 </p>
-	<a href="#" class="btn btn-outline-secondary"> Closed </a>
-	</div>
-	</div>
-	</div>
-
-	<div class="col-md-4">
-	<div class="card">
-	<img class="card-img-top closed" src="img/stefanus.png" height=374px>
-	<div class="card-body">
-	<h4 class="card-title"> Validate Your Market Size to Win and Find Your Customer </h4>
-	<p class="card-text"> Many startup founders tend to overlook market validation as they get excited about their product. Ignoring market validation will result in zero users. Find out the ways to validate your market by participating in this webinar!
-	<hr> This webinar will be held on 14 June 2020 </p>
-	<a href="#" class="btn btn-outline-secondary"> Closed </a>
-	</div>
-	</div>
-	</div>
-
-	<div class="col-md-4">
-	<div class="card">
-	<img class="card-img-top closed" src="img/halim.png" height=374px>
-	<div class="card-body">
-	<h4 class="card-title"> How Startup Connects with Corporation </h4>
-	<p class="card-text"> By engaging in startup-corporate partnership, startups will get more opportunities to execute and innovative ideas with endless resources. In this webinar session, find out how startups can connect with corporations for mutual partnerships!
-	<hr> This webinar will be held on 20 June 2020 </p>
-	<a href="webinar11.php" class="btn btn-outline-secondary"> Closed </a>
-	</div>
-	</div>
-	</div>
-
-	<div class="col-md-4">
-	<div class="card">
-	<img class="card-img-top closed" src="img/andri.png" height=374px>
-	<div class="card-body">
-	<h4 class="card-title"> How to Adapt 5.0 Technology to Boost your Startup Innovation </h4>
-	<p class="card-text"> {caption}
-	<hr> This webinar will be held on 21 June 2020 </p>
-	<a href="#" class="btn btn-outline-secondary"> Closed </a>
-	</div>
-	</div>
-	</div>
-
-
-
-  		<div class="col-md-4">
-  		<div class="card">
-  			<img class="card-img-top closed" src="img/cover1" height=374px>
-  			<div class="card-body">
-  				<h4 class="card-title"> Why should you build your own startup during college? </h4>
-  				<p class="card-text"> Having the opportunity to enter college and university is a blessing. And one of its benefits is the wide opening to establish a start-up and get a headstart. With proper guidance and innovations, your college start-up can be your life legacy. Find out why you should build your own startup doing college in this webinar!
-  				<hr> This webinar will be held on 16 May 2020 </p>
-  				<a href="#" class="btn btn-outline-secondary"> Closed </a>
-  			</div>
-  		</div>
-  	</div>
-
-  	  	<div class="col-md-4">
-  		<div class="card">
-  			<img class="card-img-top closed" src="img/cover2" height=374px>
-  			<div class="card-body">
-  				<h4 class="card-title"> Venture Capital 101 </h4>
-  				<p class="card-text"> The second biggest reason why start-ups are doomed to failure is funding reasons. Having the necessary knowledge to maintain capital and obtain capital is critical to ensure your start-up’s longevity. Find out the ins and outs of venture capitals, and what they seek in today’s start-ups. <br>
-  				<hr> This webinar will be held on 16 May 2020 <br> </p>
-  				<a href="#" class="btn btn-outline-secondary"> Closed </a>
-  			</div>
-  		</div>
-  	</div>
-
-
-  	<div class="col-md-4">
-  		<div class="card">
-  			<img class="card-img-top closed" src="img/cover4" height=374px>
-  			<div class="card-body">
-  				<h4 class="card-title"> Business and technology Innovation in Agri-Industry to impact Society </h4>
-  				<p class="card-text"> Albeit being an agrarian country. Indonesia’s agriculture only represents 1,5% of our economic growth. Add technology to agriculture, and you will have a massive growth opportunity in agriculture. Learn the agricultural technology implementation and its potential with this webinar! <br>
-  				<hr> This webinar will be held on 17 May 2020 </p>
-  				<a href="#" class="btn btn-outline-secondary"> Closed </a>
-  			</div>
-  		</div>
-  	</div>
-
-		<div class="col-md-4">
-			<div class="card">
-				<img class="card-img-top closed" src="img/cover6" height=374px>
-				<div class="card-body">
-					<h4 class="card-title"> Innovation in Geo Mapping Startups and Industry </h4>
-					<p class="card-text"> Indonesia’s archipelagic state presents multiple diverse terrains. As one of the most geographically unique countries, we have a vast potential in the geographical industry. Geo-mapping is one of the unnoticed industries regardless of its potential. Expose yourself to the industry of geo-mapping and the prospects of this unique industry in our webinar! <br>
-					<hr> This webinar will be held on 17 May 2020 </p>
-					<a href="#" class="btn btn-outline-secondary"> Closed </a>
-				</div>
+	<div class="col-md-6">
+		<div class="card">
+			<img class="card-img-top" src="img/webinar1.jpg" height=374px>
+			<div class="card-body">
+				<h4 class="card-title"> Idealogy Webinar & Workshop 2020 </h4>
+				<p class="card-text"> Idealogy Webinar consists of multiple webinar events covering a diverse amount of topics. Gain substantial insight and knowledge on various topics by participating on our webinars! <br> </p>
+				<a href="webinar.php" class="btn btn-outline-secondary"> Register </a>
 			</div>
 		</div>
+	</div>
+</div>
+</div>
 
+<!--- Welcome Section -->
+<div class="container-fluid">
+<div class="row welcome text-center">
+	<div class="col-12">
+		<h1 class="display-4"> Our Facilities </h1>
+	</div>
+	<hr>
+</div>
+</div>
 
+<!--- Three Column Section -->
+<div class="container-fluid padding">
+<div class="row text-center padding">
+	<div class="col-12">
+		<p class="lead"> Join us and get exclusive access on valuable facilities we provide </p>
+	</div>
+
+	<div class="col-xs-12 col-sm-6 col-md-4">
+		<img  src="img/hacking.png" height=97px>
+		<h3> Idealogy Bootcamp </h3>
+		<p> Participate in a 30 day growth spurt to develop and maximize your start-ups potential </p>
+	</div>
+
+	<div class="col-xs-12 col-sm-6 col-md-4">
+		<img  src="img/asd.png" height=97px>
+		 <h3> Startup Development Camp </h3>
+		<p> Prepare yourselves with our resources of mentors, trainings, sharing sessions, and more to face the incubator phase  </p>
+	</div>
+
+	<div class="col-sm-12 col-md-4">
+		<img  src="img/coding.png" height=97px>
+		<h3> Research Commercialization </h3>
+		<p> Further develop and commercialize your innovation with our research </p>
+	</div>
+</div>
+<hr class="my-4">
+</div>
+
+<!--- Meet the team -->
+<div class="container-fluid padding">
+<div class="row welcome text-center">
+	<div class="col-12">
+		<h1 class="display-4"> Our Partner </h1>
+	</div>
+	<hr>
+</div>
+</div>
+
+<!--- Cards -->
+<div class="container-fluid padding">
+<div class="row padding">
 	<div class="col-md-4">
-  		<div class="card">
-  			<img class="card-img-top closed" src="img/cover3" height=374px>
-  			<div class="card-body">
-  				<h4 class="card-title"> Creation of Waste Management Startup and Zero-Waste Innovation for Sustainable Future </h4>
-  				<p class="card-text"> Did you know that Indonesia is currently producing approximately more than 190,000 tons of waste each day? Moreover, 81% of them are unsorted and left to rot. While only a small percentage goes back and gets recycled. Get inspired and learn the intricacies and huge opportunity of waste management businesses in this webinar! <br>
-  				<hr> This webinar will be held on 18 May 2020 </p>
-  				<a href="#" class="btn btn-outline-secondary"> Closed </a>
-  			</div>
-  		</div>
-  	</div>
-
-
-
-
-		<div class="col-md-4">
-			<div class="card">
-				<img class="card-img-top closed" src="img/cover7" height=374px>
-				<div class="card-body">
-					<h4 class="card-title"> Big Data Startup & Innovation </h4>
-					<p class="card-text"> The era of disruption and technological advancements calls and introduces new changes. One of the subsequential advancements is Big Data. Learn the potential of big data utilization. How it affects start-ups, and how it could affect Indonesia as a country in this webinar! <br>
-					<hr> This webinar will be held on 20 May 2020 </p>
-					<a href="#" class="btn btn-outline-secondary"> Closed </a>
-				</div>
+		<div class="card">
+			<img class="card-img-top" src="img/achmadzaky.jpg" height=374px>
+			<div class="card-body">
+				<h4 class="card-title"> Achmad Zaky </h4>
+				<p class="card-text">  a technology entrepreneur and investor.
+				He is the founder and CEO of Bukalapak, one of the largest ecommerce platforms in Indonesia. Listed by Globe Asia as the 149th-richest person in Indonesia. </p>
+				<a href="#" class="btn btn-outline-secondary"> See Profile </a>
 			</div>
 		</div>
-
-
+	</div>
 	<div class="col-md-4">
-  		<div class="card">
-  			<img class="card-img-top closed" src="img/cover5" height=374px>
-  			<div class="card-body">
-  				<h4 class="card-title"> Product Design and Innovation to Empower Village and Impactful to Society </h4>
-  				<p class="card-text"> Indonesia is a country with more than 89.000 villages spread nationwide. With each village presenting its diversity through its culture. The giant growth potential is still uncharted. Find out how to maximize the potential of each village, how to build products, and develop communities in villages. <br>
-  				<hr> This webinar will be held on 20 May 2020 </p>
-  				<a href="#" class="btn btn-outline-secondary"> Closed </a>
-  			</div>
-  		</div>
-  	</div>
+		<div class="card">
+			<img class="card-img-top" src="img/gh.png" height=374px>
+			<div class="card-body">
+				<h4 class="card-title"> The Greater Hub </h4>
+				<p class="card-text"> We promote innovation, venture creation and assist the small business management across
+				the SBM ITB community by providing the comprehensive entrepreneurship ecosystem </p>
+				<a href="#" class="btn btn-outline-secondary"> See Profile </a>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="card">
+			<img class="card-img-top" src="img/pnp.png" height=374px>
+			<div class="card-body">
+				<h4 class="card-title"> Plug and Play </h4>
+				<p class="card-text"> We are building this accelerator program together with Gan Konsulindo (a local investment firm in Indonesia), Astra International,
+				Bank Negara Indonesia, Bank Tabungan Negara, and Sinar Mas. </p>
+				<a href="#" class="btn btn-outline-secondary"> See Profile </a>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+
+<!--- Connect -->
+<div class="container-fluid padding">
+<div class="row text-center padding">
+	<div class="col-12" id="contact">
+		<h2> Connect </h2>
+	</div>
+	<div class="col-12 social padding">
+		<a href="https://www.linkedin.com/company/the-founders-laboratory/"><i class="fab fa-linkedin"> </i></a>
+		<a href="https://www.instagram.com/thefounderslab/"><i class="fab fa-instagram">  </i></a>
+	</div>
+</div>
+<hr class="my-4">
+</div>
+
+<!--- Footer -->
+<footer>
+<div class="container-fluid padding">
+<div class="row text-center">
+	<div class="col-md-4">
+		<img src="img/logotfl.png" height=100px>
+		<hr class="light">
+		<p> thefounderslab@gmail.com </p>
+		<p> Jalan Ganesha No. 10 </p>
+	</div>
+	<div class="col-md-4">
+		<hr class="light">
+		<h5> Services </h5>
+		<hr class="light">
+		<p> Advisory & Mentorship </p>
+		<p> Research </p>
+		<p> Co-Working Spaces </p>
+		<p> Investment Capital & Funds </p>
+	</div>
+	<div class="col-md-4">
+		<hr class="light">
+		<h5> Contact Person </h5>
+		<hr class="light">
+		<p> Grace Natasha Christiadhi </p>
+		<p> 082138099916 </p>
+	</div>
+</div>
+</div>
+</footer>
 
 
-
-  </div>
-  </div>
+</body>
+</html>
